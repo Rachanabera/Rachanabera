@@ -29,25 +29,3 @@ I'm passionate about building intelligent systems that solve real-world problems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,cpp,css,figma,html,java,js,mongodb,mysql,opencv,oracle,pandas,photoshop,postman,py,react,spring,tensorflow" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachanabera6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachanabera6&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachanabera6&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## ✨ Fun Fact
-
-> *I don't give up on puzzles easily—whether it's a Rubik's Cube, a coding bug, or a tricky ML model.*
